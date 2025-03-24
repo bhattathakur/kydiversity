@@ -33,7 +33,7 @@ This app visualizes the population distribution of different ethnic groups in va
 - In the dashboard, users input the county name.
 - The program selects data based on the chosen county and generates a bar/column chart.  
 
-![App Screenshot](pictures/powerapp.png)
+![App Screenshot](./powerapp.png)
 
 ---
 
